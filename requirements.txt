@@ -1,0 +1,5 @@
+aiogram
+pycryptodome
+protobuf
+requests
+urllib3
